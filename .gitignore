@@ -1,0 +1,23 @@
+# paketlar
+node_modules
+
+# build natijasi
+dist
+
+# muhit sozlamalari
+.env
+.env.local
+.env.*.local
+
+# loglar
+*.log
+npm-debug.log*
+
+# tizim va muharrir fayllari
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+
+# Vercel
+.vercel
